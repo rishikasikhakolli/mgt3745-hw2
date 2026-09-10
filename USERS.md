@@ -14,15 +14,15 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
 ## Two job statements
 **JOB-01:** When I [experience moments while traveling], I want to [document it quickly without pressure], so I can [share stories with friends about what I am doing]. 
 
-• Evidence: "He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about."
+**• Evidence:** "He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about."
 
 
-JOB-02: When I [am traveling and looking for recommendations], I want to [be able to find places quickly], so I can [create itineraries that have everything I'm looking for]. 
+**JOB-02:** When I [am traveling and looking for recommendations], I want to [be able to find places quickly], so I can [create itineraries that have everything I'm looking for]. 
 
-• Evidence: "...and actively looks for popular recommendations for activities or meals through social media."
+**• Evidence:** "...and actively looks for popular recommendations for activities or meals through social media."
 
 ## Two user profiles
-PROFILE-01: relevant role, circumstances, needs, constraints, and evidence IDs.
-PROFILE-02: relevant role, circumstances, needs, constraints, and evidence IDs.
+**PROFILE-01:** relevant role, circumstances, needs, constraints, and evidence IDs.
+**PROFILE-02:** relevant role, circumstances, needs, constraints, and evidence IDs.
 
 Use reported / observed / inferred labels. Earlier known / assumed labels are acceptable if the distinction is clear. Two exploratory interviews do not establish population prevalence.
