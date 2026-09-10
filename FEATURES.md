@@ -36,21 +36,27 @@ Provide at least six features. For each, name the user segment, date, category, 
 
 ## Behavior
 Sequence, conditions, actions, and visible outcomes:
+* **Sequence:** The user starts a trip by selecting a location and logging start dates. As they progress through their trip, they add pictures of their activities, landmarks they visit, and food they eat. They then rank each thing in their respective categories and at the end they can see their food rank list, etc. Finally, they can mark their trip complete and rank the city against their over trips. The user is also prompted at the end, something along the lines of: "Yay! Trip ended! Share with friends?"
+* **Conditions:** A user can't rank things unless they have other thinks to rank against (activities and city)
+* **Actions:** They input their start date, select category, input pictures, write reviews, rank spots. They can tag companions and rank the final city.
+* **Visible outcomes:** It calculates a rank number for each thing and city rankings after you select. It also shows the cities you've visited on a map. A scrolling feed of your own with reviews and things you've done compiled in one place.
 
 ## Constraints
-Platform, data, privacy, scope, and relevant limits:
+* **Platform:** App ideally that would be supported on IOS and Android.
+* **Data:** Share what you want to, need email/phone number to register account.
+* **Privacy:** Location sharing so you don't have to manually input city.
+* **Relevant limits:** Ability to work offline, if not able to upload then at least have save draft options. 
 
 ## Acceptance
-Replace examples with criteria for your feature. Choose the pattern that fits; HW2 does not require both WHEN and IF.
 
-- Ubiquitous: The system shall [response].
-- Event-driven: When [trigger], the system shall [response].
-- State-driven: While [state], the system shall [response].
-- Unwanted: If [condition], then the system shall [response].
-- Optional: Where [feature exists], the system shall [response].
+- Ubiquitous: The system shall [show the number ranking of all things uploaded].
+- Event-driven: When [an item is ranked], the system shall [automatically suggest other things they've done in that category/city combo to rank against and then auto-calculate a rank number].
+- State-driven: While [a trip is in progress], the system shall [mark the city on a map with its ranking against others].
+- Unwanted: If [start/end dates aren't selected], then the system shall [not prompt ranking and will simply just allow you to upload a picture/review].
+- Optional: Where [users select "Traveled with"], the system shall [prompt the companion to start the same trip with them].
 
 ## Handoff reflection
-Describe how another reader checked the specification, any ambiguity found, your revisions, and remaining limits. If no gap was found, describe the check and its limits. Do not invent a gap.
+If I handed this document off, they would still need to understand how to calculate the ranking number with the ranking system. In addition, what each page of the app would look like along with what would be highlighted on each page.
 
 ## AI assistance
-I used AI to help me summarize my interview bullets a bit and made sure to rewrite the summary afterwards. I also used it to help 
+I used AI to help me summarize my interview bullets a bit and made sure to rewrite the summary afterwards. I also used it to help me ideate some new things to build upon the application idea I had.
