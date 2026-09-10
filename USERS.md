@@ -1,7 +1,6 @@
 # User research and jobs
 
 ## Interview synthesis
-Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and approximately 15 minutes per interview. Ask about a specific recent experience. Summarize confirmed, contradicted, or uncertain findings; do not manufacture surprises. Keep sensitive raw notes out of the repository.
 
 ### INT-01
 I spoke with INT-01, a post-graduate full-time working professional, on September 5. We spoke about how he tends to shared experiences from his travel, especially recently. He explained that when funny or simply note-worthy moments happened, he shared them directly with his friends rather than turning to social media. He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about. He often texts them numerous times per day, especially on trips. Whether it be short story times, pictures, or specific locations with food he loved, he lets them know in the moment. Finally, even though he loves to share with his friends and also loves knowing what his friends are up to, he is not closed off to social media recommendations.
