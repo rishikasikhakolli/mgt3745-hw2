@@ -32,10 +32,11 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
   * Would engage with tier lists of places/activities during travel. (A)
   * Would enjoy a commenting feature. (A)
 
-**PROFILE-02:** 
-relevant role, circumstances, needs, constraints, and evidence IDs.
+**PROFILE-02:** As an active social media user who enjoys documenting their travels, they want a way to evaluate generate visually appealing travel logs that match design standards but maybe doesn't have a image restriction or as much of a pressure-environment. They want a place to showcase highlights into curated reviews that document their trip aesthetically. They searched for itinerary ideas from numerous tools and is meticulous with photos they takes from their events. This current approach is constrained because they are limited to high-pressure sharing environments where shared thoughts are often short or non-existent.
  
   **Evidence IDs:**
-  * ddd
-  * ddd
-Use reported / observed / inferred labels. Earlier known / assumed labels are acceptable if the distinction is clear. Two exploratory interviews do not establish population prevalence.
+  * Social media user who posts frequently on Instagram and TikTok. (K)
+  * Looks for popular activities or meals in cities on social media for trips. (K)
+  * Enjoys prioritizing visual aesthetics. (K)
+  * Wants to share her itinerary and activities in-depth. (A)
+  * Desires to give longer reviews than more common short-form captions. (A)
