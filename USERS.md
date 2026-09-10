@@ -16,7 +16,7 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
 **• Evidence:** "He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about."
 
 
-**JOB-02:** When I [am traveling and looking for recommendations], I want to [be able to find places quickly], so I can [create itineraries that have everything I'm looking for]. 
+**JOB-02:** When I [am exploring new places], I want to [be able to find places recommendations quickly], so I can [post about them in a visually appealing way]. 
 
 **• Evidence:** "...and actively looks for popular recommendations for activities or meals through social media."
 
