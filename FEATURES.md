@@ -11,6 +11,12 @@ When people are traveling, or perhaps once they have returned from a trip, they 
 
 ## Scope
 Included behavior and explicit non-goals:
+**Included behavior**
+* d
+* d
+Explicit non-goals:
+* d
+* d
 
 ### Kano hypotheses
 Provide at least six features. For each, name the user segment, date, category, and evidence-based reasoning. These are tentative hypotheses, not validated survey findings.
