@@ -2,6 +2,7 @@
 
 ## Context
 The situation, job, and desired progress:
+When people are traveling, or perhaps once they have returned from a trip, they want to casually share their experiences in a low stakes/pressure way with audiences to 1) have a travel log for themselves of their travel events and 2) keep their friends updated.
 
 ## Users
 Profiles and evidence in USERS.md:
