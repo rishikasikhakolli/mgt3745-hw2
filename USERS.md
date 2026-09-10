@@ -12,8 +12,14 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
 
 
 ## Two job statements
-JOB-01: When I [circumstance], I want to [motivation], so I can [outcome]. Evidence:
-JOB-02: When I [circumstance], I want to [motivation], so I can [outcome]. Evidence:
+JOB-01: When I [circumstance], I want to [motivation], so I can [outcome]. 
+
+Evidence:
+
+
+JOB-02: When I [circumstance], I want to [motivation], so I can [outcome]. 
+
+Evidence:
 
 ## Two user profiles
 PROFILE-01: relevant role, circumstances, needs, constraints, and evidence IDs.
