@@ -22,9 +22,20 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
 
 ## Two user profiles
 **PROFILE-01:** As someone who travels casually, PROFILE-01 is someone who wants a fast way to combine all their travel highlights and updates into one place so their friends can come along the journey with themm, but not be bombarded by frequent updates over more commonplace applications. They desire a low-pressure location to share their pictures, thoughts, and recommendations. Today, they usually text photos, stories, and specific location recommendations directly over messaging apps. This current approach is unsatisfying because sending scattered text messages is fragmented and could be annoying for the receiver (pressure to respond). One thing to consider is the desire for a response, so including a comment section so the sharing is more interactive for both parties.
+ 
+  **Evidence IDs:**
+  * Post-graduate working full-time who travels casually. (K)
+  * Prefers sharing via text over public social media posting. (K)
+  * Texts friends numerous times per day, especially during travel. (K)
+  * Doesn't desire a strict social platform for sharing. (K)
+  * Has low patience for filling out long public reviews/blogging. (A)
+  * Would engage with tier lists of places/activities during travel. (A)
+  * Would enjoy a commenting feature. (A)
+
+**PROFILE-02:** 
+relevant role, circumstances, needs, constraints, and evidence IDs.
+ 
   **Evidence IDs:**
   * ddd
   * ddd
-**PROFILE-02:** relevant role, circumstances, needs, constraints, and evidence IDs.
-
 Use reported / observed / inferred labels. Earlier known / assumed labels are acceptable if the distinction is clear. Two exploratory interviews do not establish population prevalence.
