@@ -4,16 +4,12 @@
 Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and approximately 15 minutes per interview. Ask about a specific recent experience. Summarize confirmed, contradicted, or uncertain findings; do not manufacture surprises. Keep sensitive raw notes out of the repository.
 
 ### INT-01
-Participant code / relevant circumstance / date:
-What happened and the participant's workaround:
-What was reported, what you observed, and what you infer:
-Evidence that confirms, challenges, or leaves the framing uncertain:
+I spoke with INT-01, a post-graduate full-time working professional, on September 5. We spoke about how he tends to shared experiences from his travel, especially recently. He explained that when funny or simply note-worthy moments happened, he shared them directly with his friends rather than turning to social media. He doesn't frequent a story or feed post on common social media apps, and simple shares things he cares about with people he cares about. He often texts them numerous times per day, especially on trips. Whether it be short story times, pictures, or specific locations with food he loved, he lets them know in the moment. Finally, even though he loves to share with his friends and also loves knowing what his friends are up to, he is not closed off to social media recommendations.
+
 
 ### INT-02
-Participant code / relevant circumstance / date:
-What happened and the participant's workaround:
-What was reported, what you observed, and what you infer:
-Evidence that confirms, challenges, or leaves the framing uncertain:
+INT-02, who I spoke to on September 7, is a more active social media user who frequently posts on applications such as Instagram or TikTok. We chatted about her process for logging and sharing trip highlights from her vacations. She walked me through how she likes to travel, how she is often sharing her pictures on her story, is thinking about taking pictures to post, and actively looks for popular recommendations for activities or meals through social media. Something she loves about Instagram is curating a feed that is appealing for her to look at. She prioritizes aesthetics and also enjoys taking nice pictures of her events to document her travels. It goes to show that some people can be a lot more casual when they think about social media, while others consider it a bit more deeply, or even not at all. There are different types of people when it comes to sharing content, so making sure to appeal to different audiences (a personal choice to make your "feed" aesthetic or cluttered).
+
 
 ## Two job statements
 JOB-01: When I [circumstance], I want to [motivation], so I can [outcome]. Evidence:
