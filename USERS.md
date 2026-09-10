@@ -4,7 +4,7 @@
 Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and approximately 15 minutes per interview. Ask about a specific recent experience. Summarize confirmed, contradicted, or uncertain findings; do not manufacture surprises. Keep sensitive raw notes out of the repository.
 
 ### INT-01
-I spoke with INT-01, a post-graduate full-time working professional, on September 5. We spoke about how he tends to shared experiences from his travel, especially recently. He explained that when funny or simply note-worthy moments happened, he shared them directly with his friends rather than turning to social media. He doesn't frequent a story or feed post on common social media apps, and simple shares things he cares about with people he cares about. He often texts them numerous times per day, especially on trips. Whether it be short story times, pictures, or specific locations with food he loved, he lets them know in the moment. Finally, even though he loves to share with his friends and also loves knowing what his friends are up to, he is not closed off to social media recommendations.
+I spoke with INT-01, a post-graduate full-time working professional, on September 5. We spoke about how he tends to shared experiences from his travel, especially recently. He explained that when funny or simply note-worthy moments happened, he shared them directly with his friends rather than turning to social media. He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about. He often texts them numerous times per day, especially on trips. Whether it be short story times, pictures, or specific locations with food he loved, he lets them know in the moment. Finally, even though he loves to share with his friends and also loves knowing what his friends are up to, he is not closed off to social media recommendations.
 
 
 ### INT-02
@@ -12,14 +12,12 @@ INT-02, who I spoke to on September 7, is a more active social media user who fr
 
 
 ## Two job statements
-JOB-01: When I [circumstance], I want to [motivation], so I can [outcome]. 
+JOB-01: When I [experience moments while traveling], I want to [document it quickly without pressure], so I can [share stories with friends about what I am doing]. 
+• Evidence: "He doesn't frequent a story or feed post on common social media apps, and simply shares things he cares about with people he cares about."
 
-Evidence:
 
-
-JOB-02: When I [circumstance], I want to [motivation], so I can [outcome]. 
-
-Evidence:
+JOB-02: When I [am traveling and looking for recommendations], I want to [be able to find places quickly], so I can [create itineraries that have everything I'm looking for]. 
+• Evidence: "...and actively looks for popular recommendations for activities or meals through social media."
 
 ## Two user profiles
 PROFILE-01: relevant role, circumstances, needs, constraints, and evidence IDs.
