@@ -11,19 +11,23 @@ When people are traveling, or perhaps once they have returned from a trip, they 
 
 ## Scope
 Included behavior and explicit non-goals:
+
 **Included behavior**
-* d
-* d
-Explicit non-goals:
-* d
-* d
+* Users select a category (Food, Activity, Landmark) and choose from previously pictures items what they liked more in that category from that trip to auto-calculate an item score.
+* Closing out a completed trip then allows the user to rank that city/location against past trips including a map that shows their top ranked cities. 
+* Trip logs require start/end dates and have a "Traveled With" companion tag so tagged friends can link trip dates while still having their own rankings.
+* Shareable link prompted after you finish out a trip to share with friends.
+
+**Explicit non-goals:**
+* No sort of traveling booking done through the application.
+* No chat in app, only commenting. 
 
 ### Kano hypotheses
 Provide at least six features. For each, name the user segment, date, category, and evidence-based reasoning. These are tentative hypotheses, not validated survey findings.
 
 | Feature ID | Feature | Kano hypothesis | Segment / date | Evidence and reasoning |
 |---|---|---|---|---|
-| F-01 | | | | |
+| F-01 | feature | kano | segement | evidence |
 | F-02 | | | | |
 | F-03 | | | | |
 | F-04 | | | | |
@@ -49,4 +53,4 @@ Replace examples with criteria for your feature. Choose the pattern that fits; H
 Describe how another reader checked the specification, any ambiguity found, your revisions, and remaining limits. If no gap was found, describe the check and its limits. Do not invent a gap.
 
 ## AI assistance
-Record assistance and how you verified it. Do not invent interview evidence. Full Delegation Decision Records begin at HW5.
+I used AI to help me summarize my interview bullets a bit and made sure to rewrite the summary afterwards. I also used it to help 
