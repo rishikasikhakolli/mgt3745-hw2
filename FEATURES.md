@@ -27,12 +27,12 @@ Provide at least six features. For each, name the user segment, date, category, 
 
 | Feature ID | Feature | Kano hypothesis | Segment / date | Evidence and reasoning |
 |---|---|---|---|---|
-| F-01 | feature | kano | segement | evidence |
-| F-02 | | | | |
-| F-03 | | | | |
-| F-04 | | | | |
-| F-05 | | | | |
-| F-06 | | | | |
+| F-01 | Category-Based Ranking | Must-be | 01, 02 | Main app usage, people can rank things they've done |
+| F-02 | Text Reviews | Must-be | 01, 02 | Main app usage, people want to share their thoughts on events |
+| F-03 | Upload/Sharing | Performance | 01 | Sharing with friends over text |
+| F-04 | "Traveled with" | Attractive | 01, 02 | Can coincide their updates with their friends that they travel with |
+| F-05 | Activity Feed | Indifferent | 02 | Can appeal to the social and friend sharing aspect, but not to make that a priority in the app |
+| F-06 | In-App Photo Editing | Indifferent | 01, 02 | Neither expressed a desire for it, but common for many social-related apps |
 
 ## Behavior
 Sequence, conditions, actions, and visible outcomes:
